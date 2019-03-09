@@ -4,4 +4,4 @@
 
 Primary proxy address: **[https://www.croxyproxy.com/](https://www.croxyproxy.com/)**
 
-Secondary proxy address: **[https://www.01a2fb55c31c.space/](https://www.01a2fb55c31c.space/)**
+Temporary proxy address: **[https://www.proxy.test/](https://www.proxy.test/)** (this address may be changed any time, visit this page for updates)
