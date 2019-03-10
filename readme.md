@@ -4,4 +4,6 @@
 
 Primary proxy address: **[https://www.croxyproxy.com/](https://www.croxyproxy.com/)**
 
-Temporary proxy address: **[https://www.hostless.club/](https://www.hostless.club/)** [this address may be changed any time, visit this page for updated one]
+Temporary proxy address: **[https://www.hostless.club/](https://www.hostless.club/)** [it may be changed at any time, check this page for an updated one]
+
+Don't forget to visit this page periodically to check for updates :)
