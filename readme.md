@@ -4,6 +4,6 @@
 
 Primary proxy address: **[https://www.croxyproxy.com/](https://www.croxyproxy.com/)**
 
-Temporary proxy address: **[https://www.hostless.club/](https://www.hostless.club/)** [it may be changed at any time, check this page for an updated one]
+Temporary proxy address: **[https://www.bootstrapit.pw/](https://www.bootstrapit.pw/)** [it may be changed at any time, check this page for an updated one]
 
 Don't forget to bookmark and visit this page periodically ¯\\_(ツ)_/¯
